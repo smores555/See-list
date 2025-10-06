@@ -60963,6 +60963,7 @@
       "base": "SEA",
       "seat": "FO"
     },
+    "paper": true,
     "preferences": [
       {
         "order": 1,
@@ -67201,6 +67202,7 @@
       "base": "SFO",
       "seat": "FO"
     },
+    "paper": true,
     "preferences": [
       {
         "order": 1,
@@ -67502,6 +67504,7 @@
       "base": "SFO",
       "seat": "FO"
     },
+    "paper": true,
     "preferences": [
       {
         "order": 1,
